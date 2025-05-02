@@ -18,3 +18,61 @@ The main objectives are:
 - To evaluate the effectiveness of transformer-based models in complaint classification
 - To understand the benefits and limitations of fine-tuning versus traditional ML techniques
 - To explore advanced strategies such as domain adaptation and efficient training
+
+## 🔧 Usage / How to Run
+
+Follow the steps below to set up and run the project:
+
+### 1. Clone the Repository
+
+Using **SSH**:
+```bash
+git clone git@github.com:eduardooliveiraps/consumer-complaint-transformer-classifier.git
+```	
+
+Using **HTTPS**:
+```bash
+git clone https://github.com/eduardooliveiraps/consumer-complaint-transformer-classifier.git
+```
+
+Then, navigate to the project directory:
+```bash
+cd consumer-complaint-transformer-classifier
+```
+
+### 2. Download the Dataset
+
+The dataset can be downloaded from the [Consumer Complaint Dataset on Kaggle](https://www.kaggle.com/datasets/namigabbasov/consumer-complaint-dataset).
+
+After downloading, place the file `complaints.csv` in the `/data` folder inside the project directory:
+
+```kotlin
+consumer-complaint-transformer-classifier/
+│
+├── data/
+│   └── complaints.csv
+```
+
+### 3. Create a Virtual Environment
+
+On Windows:
+```bash
+python -m venv nlp_env
+venv\Scripts\activate
+```
+
+On macOS/Linux:
+```bash
+python3 -m venv nlp_env
+source nlp_env/bin/activate
+```
+
+### 4. Install Required Packages
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Notebook
+
+
+
