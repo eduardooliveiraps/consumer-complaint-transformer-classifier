@@ -18,5 +18,3 @@ The main objectives are:
 - To evaluate the effectiveness of transformer-based models in complaint classification
 - To understand the benefits and limitations of fine-tuning versus traditional ML techniques
 - To explore advanced strategies such as domain adaptation and efficient training
-
-Accurate classification of consumer complaints can significantly improve issue triaging, policy design, and customer support in the financial sector. The application of modern NLP techniques in this domain aims to bridge the gap between user feedback and actionable insights for financial institutions.
