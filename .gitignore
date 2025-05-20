@@ -1,2 +1,4 @@
 /data/complaints.csv
 /nlp_env
+/checkpoints*
+/metrics*
