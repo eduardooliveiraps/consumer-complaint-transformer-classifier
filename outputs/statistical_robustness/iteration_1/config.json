@@ -1,0 +1,9 @@
+{
+  "model": "distilbert-base-uncased",
+  "learning_rate": 2e-05,
+  "batch_size": 16,
+  "epochs": 5,
+  "max_length": 512,
+  "iteration": 1,
+  "sample_size_per_class": 100
+}

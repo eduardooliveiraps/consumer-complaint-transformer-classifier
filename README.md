@@ -58,12 +58,12 @@ consumer-complaint-transformer-classifier/
 On Windows:
 ```bash
 python -m venv nlp_env
-venv\Scripts\activate
+nlp_env\Scripts\activate
 ```
 
 On macOS/Linux:
 ```bash
-python3 -m venv nlp_env
+python3 -m nlp_env nlp_env
 source nlp_env/bin/activate
 ```
 

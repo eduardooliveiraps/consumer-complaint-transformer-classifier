@@ -1,1 +1,8 @@
 pandas
+numpy
+torch
+scikit-learn
+transformers
+wandb
+matplotlib
+seaborn

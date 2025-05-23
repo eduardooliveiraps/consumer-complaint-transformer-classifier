@@ -1,0 +1,16 @@
+{"time":"2025-05-23T12:35:55.1775278+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\eduar\\MIA\\1year_2semester\\nlp\\consumer-complaint-transformer-classifier\\wandb\\run-20250523_123554-ifoizjom\\logs\\debug-core.log"}
+{"time":"2025-05-23T12:35:55.5022926+01:00","level":"INFO","msg":"created new stream","id":"ifoizjom"}
+{"time":"2025-05-23T12:35:55.5022926+01:00","level":"INFO","msg":"stream: started","id":"ifoizjom"}
+{"time":"2025-05-23T12:35:55.5022926+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ifoizjom"}
+{"time":"2025-05-23T12:35:55.5022926+01:00","level":"INFO","msg":"sender: started","stream_id":"ifoizjom"}
+{"time":"2025-05-23T12:35:55.5022926+01:00","level":"INFO","msg":"handler: started","stream_id":"ifoizjom"}
+{"time":"2025-05-23T12:35:55.7871635+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-23T12:39:53.8220823+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-23T12:39:53.8220823+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-23T12:39:54.5922141+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-23T12:39:54.8385386+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.2463245}],"total_operations":1}}
+{"time":"2025-05-23T12:39:54.8539272+01:00","level":"INFO","msg":"stream: closing","id":"ifoizjom"}
+{"time":"2025-05-23T12:39:54.8539272+01:00","level":"INFO","msg":"handler: closed","stream_id":"ifoizjom"}
+{"time":"2025-05-23T12:39:54.8539272+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ifoizjom"}
+{"time":"2025-05-23T12:39:54.8539272+01:00","level":"INFO","msg":"sender: closed","stream_id":"ifoizjom"}
+{"time":"2025-05-23T12:39:54.8539272+01:00","level":"INFO","msg":"stream: closed","id":"ifoizjom"}

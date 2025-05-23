@@ -1,0 +1,19 @@
+{"time":"2025-05-23T12:29:23.612019+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\eduar\\MIA\\1year_2semester\\nlp\\consumer-complaint-transformer-classifier\\wandb\\run-20250523_122923-uqryo31v\\logs\\debug-core.log"}
+{"time":"2025-05-23T12:29:24.3428359+01:00","level":"INFO","msg":"created new stream","id":"uqryo31v"}
+{"time":"2025-05-23T12:29:24.3433592+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"uqryo31v"}
+{"time":"2025-05-23T12:29:24.3433592+01:00","level":"INFO","msg":"handler: started","stream_id":"uqryo31v"}
+{"time":"2025-05-23T12:29:24.3433592+01:00","level":"INFO","msg":"stream: started","id":"uqryo31v"}
+{"time":"2025-05-23T12:29:24.3433592+01:00","level":"INFO","msg":"sender: started","stream_id":"uqryo31v"}
+{"time":"2025-05-23T12:29:24.6964023+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-23T12:35:32.1297542+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-23T12:35:32.1321167+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-23T12:35:32.1741572+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-23T12:35:54.1402611+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-23T12:35:54.1402611+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-23T12:35:54.9208849+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-23T12:35:55.1468425+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.2246008}],"total_operations":1}}
+{"time":"2025-05-23T12:35:55.174967+01:00","level":"INFO","msg":"stream: closing","id":"uqryo31v"}
+{"time":"2025-05-23T12:35:55.174967+01:00","level":"INFO","msg":"sender: closed","stream_id":"uqryo31v"}
+{"time":"2025-05-23T12:35:55.1754896+01:00","level":"INFO","msg":"handler: closed","stream_id":"uqryo31v"}
+{"time":"2025-05-23T12:35:55.1754896+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"uqryo31v"}
+{"time":"2025-05-23T12:35:55.1754896+01:00","level":"INFO","msg":"stream: closed","id":"uqryo31v"}

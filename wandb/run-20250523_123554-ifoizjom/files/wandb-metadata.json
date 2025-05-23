@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-05-23T11:35:55.176729Z",
+  "program": "c:\\Users\\eduar\\MIA\\1year_2semester\\nlp\\consumer-complaint-transformer-classifier\\consumer-complaint-transfomer-classifier-final-2.ipynb",
+  "codePath": "consumer-complaint-transfomer-classifier-final-2.ipynb",
+  "git": {
+    "remote": "git@github.com:eduardooliveiraps/consumer-complaint-transformer-classifier.git",
+    "commit": "8ae4ee2f28b62162d88a0fe4199df474eb3fe758"
+  },
+  "email": "up202108690@g.uporto.pt",
+  "root": "c:\\Users\\eduar\\MIA\\1year_2semester\\nlp\\consumer-complaint-transformer-classifier",
+  "host": "LAPTOP-6N9V33PJ",
+  "executable": "c:\\Users\\eduar\\MIA\\1year_2semester\\nlp\\consumer-complaint-transformer-classifier\\nlp_env\\Scripts\\python.exe",
+  "codePathLocal": "consumer-complaint-transfomer-classifier-final-2.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1022695043072",
+      "used": "519693066240"
+    }
+  },
+  "memory": {
+    "total": "16934494208"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
