@@ -530,7 +530,7 @@ def main():
         train_data, val_data, test_data = create_stratified_splits(texts, labels, iteration)
         
         # Initialize fresh model for each iteration
-        model, tokenizer = setup_model_and_tokenizer(len(label_mapping), "roberta")
+        model, tokenizer = setup_model_and_tokenizer(len(label_mapping), model_type="roberta")
         model.to(device)
         
         # Train and evaluate
