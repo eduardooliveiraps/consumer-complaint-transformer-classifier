@@ -2,5 +2,5 @@
 /nlp_env
 /checkpoints*
 /metrics*
-wandb
-outputs
+/wandb
+/outputs

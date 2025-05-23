@@ -1,7 +1,0 @@
-{"time":"2025-05-23T12:43:22.1997748+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\eduar\\MIA\\1year_2semester\\nlp\\consumer-complaint-transformer-classifier\\wandb\\run-20250523_124320-bkcteos5\\logs\\debug-core.log"}
-{"time":"2025-05-23T12:43:22.5013888+01:00","level":"INFO","msg":"created new stream","id":"bkcteos5"}
-{"time":"2025-05-23T12:43:22.5013888+01:00","level":"INFO","msg":"stream: started","id":"bkcteos5"}
-{"time":"2025-05-23T12:43:22.5013888+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"bkcteos5"}
-{"time":"2025-05-23T12:43:22.5013888+01:00","level":"INFO","msg":"handler: started","stream_id":"bkcteos5"}
-{"time":"2025-05-23T12:43:22.5013888+01:00","level":"INFO","msg":"sender: started","stream_id":"bkcteos5"}
-{"time":"2025-05-23T12:43:22.7428791+01:00","level":"INFO","msg":"Starting system monitor"}
